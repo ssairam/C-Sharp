@@ -1,0 +1,9 @@
+C:\Users\focus_user1\Documents\Visual Studio 2015\Projects\DataStructures\DataStructures\AlgosTests\bin\Debug\AlgosTests.dll
+C:\Users\focus_user1\Documents\Visual Studio 2015\Projects\DataStructures\DataStructures\AlgosTests\bin\Debug\AlgosTests.pdb
+C:\Users\focus_user1\Documents\Visual Studio 2015\Projects\DataStructures\DataStructures\AlgosTests\bin\Debug\Algos.dll
+C:\Users\focus_user1\Documents\Visual Studio 2015\Projects\DataStructures\DataStructures\AlgosTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\focus_user1\Documents\Visual Studio 2015\Projects\DataStructures\DataStructures\AlgosTests\bin\Debug\Algos.pdb
+C:\Users\focus_user1\Documents\Visual Studio 2015\Projects\DataStructures\DataStructures\AlgosTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\focus_user1\Documents\Visual Studio 2015\Projects\DataStructures\DataStructures\AlgosTests\obj\Debug\AlgosTests.csprojResolveAssemblyReference.cache
+C:\Users\focus_user1\Documents\Visual Studio 2015\Projects\DataStructures\DataStructures\AlgosTests\obj\Debug\AlgosTests.dll
+C:\Users\focus_user1\Documents\Visual Studio 2015\Projects\DataStructures\DataStructures\AlgosTests\obj\Debug\AlgosTests.pdb
