@@ -1,0 +1,5 @@
+C:\Users\focus_user1\Documents\Visual Studio 2015\Projects\DataStructures\DataStructures\Algos\bin\Debug\Algos.dll
+C:\Users\focus_user1\Documents\Visual Studio 2015\Projects\DataStructures\DataStructures\Algos\bin\Debug\Algos.pdb
+C:\Users\focus_user1\Documents\Visual Studio 2015\Projects\DataStructures\DataStructures\Algos\obj\Debug\Algos.csprojResolveAssemblyReference.cache
+C:\Users\focus_user1\Documents\Visual Studio 2015\Projects\DataStructures\DataStructures\Algos\obj\Debug\Algos.dll
+C:\Users\focus_user1\Documents\Visual Studio 2015\Projects\DataStructures\DataStructures\Algos\obj\Debug\Algos.pdb
