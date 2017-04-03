@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures", "DataStructures\DataStructures.csproj", "{D1FBA7B9-BF53-4204-8D18-E6492764FAF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructuresTests", "DataStructuresTests\DataStructuresTests.csproj", "{5527FA22-F568-441F-AD3D-865D4DB5346F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algos", "Algos\Algos.csproj", "{CDA38851-393E-4A57-B7A2-E968F1F9B71C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgosTests", "AlgosTests\AlgosTests.csproj", "{764FFCAA-40C4-4CA3-82BA-72218C53B119}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POC_Console", "POC_Console\POC_Console.csproj", "{C5084344-DC50-4E48-BF38-3C79DF99A251}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BBQuestions_CarreerCup", "BBQuestions_CarreerCup\BBQuestions_CarreerCup.csproj", "{B0C1C2E9-A1E1-49F1-B025-23EEE1B1A648}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiThreading", "MultiThreading\MultiThreading.csproj", "{11449416-0602-47BE-A2A0-317230A5EF95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1FBA7B9-BF53-4204-8D18-E6492764FAF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1FBA7B9-BF53-4204-8D18-E6492764FAF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1FBA7B9-BF53-4204-8D18-E6492764FAF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1FBA7B9-BF53-4204-8D18-E6492764FAF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5527FA22-F568-441F-AD3D-865D4DB5346F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5527FA22-F568-441F-AD3D-865D4DB5346F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5527FA22-F568-441F-AD3D-865D4DB5346F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5527FA22-F568-441F-AD3D-865D4DB5346F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDA38851-393E-4A57-B7A2-E968F1F9B71C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDA38851-393E-4A57-B7A2-E968F1F9B71C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDA38851-393E-4A57-B7A2-E968F1F9B71C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDA38851-393E-4A57-B7A2-E968F1F9B71C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{764FFCAA-40C4-4CA3-82BA-72218C53B119}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{764FFCAA-40C4-4CA3-82BA-72218C53B119}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{764FFCAA-40C4-4CA3-82BA-72218C53B119}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{764FFCAA-40C4-4CA3-82BA-72218C53B119}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5084344-DC50-4E48-BF38-3C79DF99A251}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5084344-DC50-4E48-BF38-3C79DF99A251}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5084344-DC50-4E48-BF38-3C79DF99A251}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5084344-DC50-4E48-BF38-3C79DF99A251}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0C1C2E9-A1E1-49F1-B025-23EEE1B1A648}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0C1C2E9-A1E1-49F1-B025-23EEE1B1A648}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0C1C2E9-A1E1-49F1-B025-23EEE1B1A648}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0C1C2E9-A1E1-49F1-B025-23EEE1B1A648}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11449416-0602-47BE-A2A0-317230A5EF95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11449416-0602-47BE-A2A0-317230A5EF95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11449416-0602-47BE-A2A0-317230A5EF95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11449416-0602-47BE-A2A0-317230A5EF95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
