@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BBQuestions_CarreerCup", "B
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiThreading", "MultiThreading\MultiThreading.csproj", "{11449416-0602-47BE-A2A0-317230A5EF95}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JPTests", "JPTests\JPTests.csproj", "{5F8B6A8C-FC0D-4DD5-BF49-C7E5EE1AEF41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JPTestsTests", "JPTestsTests\JPTestsTests.csproj", "{3ED1543D-231F-46B6-9A69-BECEBE8F4ECA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{11449416-0602-47BE-A2A0-317230A5EF95}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{11449416-0602-47BE-A2A0-317230A5EF95}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{11449416-0602-47BE-A2A0-317230A5EF95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F8B6A8C-FC0D-4DD5-BF49-C7E5EE1AEF41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F8B6A8C-FC0D-4DD5-BF49-C7E5EE1AEF41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F8B6A8C-FC0D-4DD5-BF49-C7E5EE1AEF41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F8B6A8C-FC0D-4DD5-BF49-C7E5EE1AEF41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3ED1543D-231F-46B6-9A69-BECEBE8F4ECA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ED1543D-231F-46B6-9A69-BECEBE8F4ECA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ED1543D-231F-46B6-9A69-BECEBE8F4ECA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ED1543D-231F-46B6-9A69-BECEBE8F4ECA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

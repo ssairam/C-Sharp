@@ -21,14 +21,8 @@ namespace POC_Console
         /// <param name="args"></param>
         static void Main(String[] args)
         {
-            var numbers = new int[5] { 1,2,3,4,5};
 
-            var results = numbers.OrderByDescending(x => x);
-            var length = results.Count();
-
-            for (int i = 0; i < 3;i++)
-                Console.WriteLine(results.ElementAt(i));
-            
+            Console.WriteLine("-------Hello World----------");
             Console.ReadLine();
         }
 

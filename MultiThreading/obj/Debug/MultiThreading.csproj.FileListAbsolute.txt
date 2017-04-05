@@ -3,3 +3,8 @@ C:\Users\focus_user1\Documents\Visual Studio 2015\Projects\DataStructures\DataSt
 C:\Users\focus_user1\Documents\Visual Studio 2015\Projects\DataStructures\DataStructures\MultiThreading\obj\Debug\MultiThreading.csprojResolveAssemblyReference.cache
 C:\Users\focus_user1\Documents\Visual Studio 2015\Projects\DataStructures\DataStructures\MultiThreading\obj\Debug\MultiThreading.dll
 C:\Users\focus_user1\Documents\Visual Studio 2015\Projects\DataStructures\DataStructures\MultiThreading\obj\Debug\MultiThreading.pdb
+C:\Sairam\Projects\C-Sharp\MultiThreading\bin\Debug\MultiThreading.dll
+C:\Sairam\Projects\C-Sharp\MultiThreading\bin\Debug\MultiThreading.pdb
+C:\Sairam\Projects\C-Sharp\MultiThreading\obj\Debug\MultiThreading.csprojResolveAssemblyReference.cache
+C:\Sairam\Projects\C-Sharp\MultiThreading\obj\Debug\MultiThreading.dll
+C:\Sairam\Projects\C-Sharp\MultiThreading\obj\Debug\MultiThreading.pdb

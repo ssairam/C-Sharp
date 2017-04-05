@@ -10,3 +10,15 @@ C:\Users\focus_user1\Documents\Visual Studio 2015\Projects\DataStructures\DataSt
 C:\Users\focus_user1\Documents\Visual Studio 2015\Projects\DataStructures\DataStructures\POC_Console\bin\Debug\BBQuestions_CarreerCup.pdb
 C:\Users\focus_user1\Documents\Visual Studio 2015\Projects\DataStructures\DataStructures\POC_Console\bin\Debug\MultiThreading.dll
 C:\Users\focus_user1\Documents\Visual Studio 2015\Projects\DataStructures\DataStructures\POC_Console\bin\Debug\MultiThreading.pdb
+C:\Sairam\Projects\C-Sharp\POC_Console\bin\Debug\POC_Console.exe.config
+C:\Sairam\Projects\C-Sharp\POC_Console\bin\Debug\POC_Console.exe
+C:\Sairam\Projects\C-Sharp\POC_Console\bin\Debug\POC_Console.pdb
+C:\Sairam\Projects\C-Sharp\POC_Console\bin\Debug\Algos.dll
+C:\Sairam\Projects\C-Sharp\POC_Console\bin\Debug\BBQuestions_CarreerCup.dll
+C:\Sairam\Projects\C-Sharp\POC_Console\bin\Debug\MultiThreading.dll
+C:\Sairam\Projects\C-Sharp\POC_Console\bin\Debug\Algos.pdb
+C:\Sairam\Projects\C-Sharp\POC_Console\bin\Debug\BBQuestions_CarreerCup.pdb
+C:\Sairam\Projects\C-Sharp\POC_Console\bin\Debug\MultiThreading.pdb
+C:\Sairam\Projects\C-Sharp\POC_Console\obj\Debug\POC_Console.csprojResolveAssemblyReference.cache
+C:\Sairam\Projects\C-Sharp\POC_Console\obj\Debug\POC_Console.exe
+C:\Sairam\Projects\C-Sharp\POC_Console\obj\Debug\POC_Console.pdb

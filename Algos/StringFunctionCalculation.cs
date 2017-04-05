@@ -36,6 +36,7 @@ f('aaaaaa') = 6
         */
     public class StringFunctionCalculation
     {
+
         public void Run()
         {
             //var input = Console.ReadLine();
